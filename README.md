@@ -1,5 +1,6 @@
 # Corona-Invader
-Stupid game based on Space Invader.
+Stupid game based on Space Invader. <br />
+Pardon the messy sprite and assests spread all over, this i was my first ever project.
 
 
 ##### Credit:
